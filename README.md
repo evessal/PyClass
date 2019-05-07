@@ -1,3 +1,3 @@
 # PyClass
 Netmiko Courses Repository
-Testing out an edit for merge conflict!
+\nTesting out an edit for merge conflict!
