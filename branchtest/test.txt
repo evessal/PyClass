@@ -1,0 +1,6 @@
+Hi, This is a test file. Just testing things out
+In this wonderful world of GIT.
+Adding more lines
+To test out the modification
+Does it really work?
+I hope so! 
